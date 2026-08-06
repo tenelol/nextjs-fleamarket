@@ -1,2 +1,6 @@
 allowBuilds:
+  '@prisma/engines': false
+  bcrypt: false
+  better-sqlite3: true
+  prisma: false
   unrs-resolver: set this to true or false
